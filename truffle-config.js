@@ -26,7 +26,7 @@ const HDWalletProvider = require('truffle-hdwallet-provider');
 
 //https://developers.skalelabs.com for SKALE documentation
 //Provide your wallet private key
-let privateKey = "";
+let privateKey = "boat mouse banana novel seminar have palm universe social biology speak lady";
 
 //Provide your SKALE endpoint address
 
@@ -37,7 +37,7 @@ let privateKey = "";
 // https://sip1.skalenodes.com:10051
 // http://sip1.skalenodes.com:10046
 
-let skale = "https://sip1.skalenodes.com:10051";
+let skale = "https://sip2211-0.skalenodes.com:10007";
 
 module.exports = {
   /**
